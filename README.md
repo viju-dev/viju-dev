@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me [Contact](https://linkedin.com/in/https://www.linkedin.com/in/vijaydorugade/)
 <!-- - **Vijaydorugade@gmail.com** -->
 
-- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/accio-jobs.appspot.com/o/resumes%2FVijayDorugade-Resume.pdf%20f579b465-c35d-467c-914d-4d2db39b03b9?alt=media&token=13d37326-68d9-44f9-ae94-37accbb27e1d)
+<!-- - 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/accio-jobs.appspot.com/o/resumes%2FVijayDorugade-Resume.pdf%20f579b465-c35d-467c-914d-4d2db39b03b9?alt=media&token=13d37326-68d9-44f9-ae94-37accbb27e1d) -->
 
 <!-- - ⚡ Fun fact **I'm a funny guy** -->
 
