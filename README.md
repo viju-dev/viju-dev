@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viju-dev" alt="viju-dev" /></a> </p> -->
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently on the path of **Front-End Development**
 
-- 💬 Ask me about **Java,Springboot,DSA,Html,Css,Javascript**
+- 💬 Ask me about **Java,Springboot,DSA,Html,Css,Javascript,ReactJs,Redux**
 
 - 📫 How to reach me [Contact](https://linkedin.com/in/https://www.linkedin.com/in/vijaydorugade/)
 <!-- - **Vijaydorugade@gmail.com** -->
